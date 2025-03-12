@@ -7,7 +7,7 @@
 </h3>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/iliyana-dzhabirova">
+  <a href="https://www.linkedin.com/in/илияна-джабирова-11609b348>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:il.dzhabirova02@gmail.com">
